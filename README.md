@@ -1,4 +1,5 @@
 # Credit Card Users Churn Prediction
+This is project is from my PostGrad Program in AI/ML at UT Austin.
 
 ## 1. Business Objective
 Thera Bank has experienced a decline in credit card users, which impacts revenue streams from various fees. The objective of this project is to analyze customer data and build a machine learning model to predict **customer attrition** (churn).
